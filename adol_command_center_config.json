@@ -1,0 +1,13 @@
+{
+  "autoScanEnabled": true,
+  "mode": "balanced",
+  "watchlist": [
+    "AMD",
+    "NVDA",
+    "ADD",
+    "WL",
+    "MARA"
+  ],
+  "riskPerTrade": 100,
+  "dailyMaxLossR": -2
+}
